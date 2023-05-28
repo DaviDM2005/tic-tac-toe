@@ -1,4 +1,3 @@
-// JavaScript
 let currentPlayer = 'X';
 let board = [
   ['', '', ''],
